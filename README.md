@@ -2,7 +2,7 @@
 
 A social network platform. The user can upload pictures and videos and view the locations of other users on the map.
 
-Visit the demo at: htts://around.startlink.ziruiapp.com.
+Visit the demo at: https://around.startlink.ziruiapp.com.
 
 ## Develop the app
 
